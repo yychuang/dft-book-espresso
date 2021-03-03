@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+seaborn
+scikit-learn
+cython
+sympy
+statsmodels
+matplotlib
+ase
+dftbook
