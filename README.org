@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/dft-book-espresso/tree/master/binder/HEAD)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/dft-book-espresso/tree/master/binder/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/dft-book-espresso/HEAD)
+
 
 See [[./index.ipynb]].
