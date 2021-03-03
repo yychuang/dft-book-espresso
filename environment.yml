@@ -1,0 +1,16 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - qe
+  - ipywidgets
+  - widgetsnbextension
+  - pip
+  - pip:
+     - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
