@@ -7,4 +7,5 @@ cython
 sympy
 statsmodels
 matplotlib
+ase
 dftbook
